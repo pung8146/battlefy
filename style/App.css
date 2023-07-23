@@ -1,0 +1,12 @@
+.Wallpaper {
+  width: 100%;
+  background-color: beige;
+  height: 1vh;
+}
+
+.Content {
+  width: 80%;
+  height: 80%;
+  background-color: gold;
+  margin: 0 auto;
+}/*# sourceMappingURL=App.css.map */
